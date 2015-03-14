@@ -1,0 +1,9 @@
+Using the file compare narrows down the error search to only differences. 
+
+Having a history allows you to compare pervious working code to newer not-working code. Through comparison, differences and thus errors are narrowed down for debugging.
+
+Multiple-file commits are more relevant when these files are interdependent on one another. If they are independent, there is no need for multiple-file commits.
+
+NOTE!
+
+git diff output = original file w/ additions and subtractions in order
