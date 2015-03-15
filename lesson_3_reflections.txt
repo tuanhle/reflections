@@ -9,3 +9,5 @@ Forks are copied repositories on GitHub only. Clones are copied repositories, bo
 It is good to have a copy of the last known state of the remote locally because it will be easier to keep track of your own changes and other collaborators' changes. Also, it helps ensure that whatever is public is a working version. You can add and test new features privately before making it public.
 
 Collaborating using Git or GitHub would be easier because changes can be tracked, people can work on features at the same time and from their own local computer, no matter where they are in the world. However, it requires that the collaborators know how to use Git/GitHub.
+
+Changes should be done in a separate branch when testing a new feature or as an alternative version of the master. 
