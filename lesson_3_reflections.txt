@@ -1,3 +1,5 @@
 When would you want to create a remote repository rather than keeping all your work local?
 
 When you might want to use another computer and keep your files accessible via a cloud OR if you want to collaborate with others and use a common repository you all can access online.
+
+If Git automatically pulls changes from the remote repository from another contributor, it might break or mess up a local working version you have. 
