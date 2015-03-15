@@ -1,1 +1,7 @@
 The staging area helps give an overview of files to be commited before the actual commit. Chances are, you will accidentally add files. The commit log will get messy you commit and uncommit unecessarily on files.
+
+Calling git diff to see the difference between the working directory and staging area can give an overview of which logical changes have been made and whether a commit should be split into multiple commits.
+
+Branches can help when creating, testing, and adding new features without modifying a working version of the code. Multiple branches can allow parallel development and make software develop faster.
+
+Visualizing branches and commits with diagrams helps to verify which commits are unreachable.
